@@ -1,0 +1,15 @@
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/bin/Debug/net10.0/MyFirstApp
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/bin/Debug/net10.0/MyFirstApp.deps.json
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/bin/Debug/net10.0/MyFirstApp.runtimeconfig.json
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/bin/Debug/net10.0/MyFirstApp.dll
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/bin/Debug/net10.0/MyFirstApp.pdb
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfo.cs
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.sourcelink.json
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.dll
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/refint/MyFirstApp.dll
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.pdb
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/MyFirstApp.genruntimeconfig.cache
+/Users/nao/Desktop/ソフト開発/software_train/MyFirstApp/obj/Debug/net10.0/ref/MyFirstApp.dll
